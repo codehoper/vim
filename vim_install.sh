@@ -1,3 +1,5 @@
+sudo apt-get install meld
+sudo apt-get install geany
 sudo apt-get install ctags
 sudo apt-get install curl
 #pollute with bash
